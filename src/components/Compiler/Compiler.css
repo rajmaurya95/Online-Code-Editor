@@ -330,6 +330,17 @@ body {
     width: 65vh;
   }
 
+  .heading {
+    background-color: aqua;
+  }
+
+}
+
+@media screen and (max-width: 920px) {
+  #source {
+    width: 65vh;
+  }
+
 }
 
 @media screen and (max-width: 600px) {
