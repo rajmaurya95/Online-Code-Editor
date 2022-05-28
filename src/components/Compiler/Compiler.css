@@ -1,0 +1,332 @@
+*{
+  margin: 0;
+  padding:0;
+}
+
+.language {
+  display: inline;
+}
+.ctrl{
+  height: auto;
+}
+.heading {
+  font-size: 20px;
+}
+/* #source {
+  width: 100% !important;
+  background: #cccccc52;
+  font-size: 15px;
+} */
+.resp{
+  height: 40vh;
+}
+.input {
+  background: #cccccc52;
+  width: 40%;
+  height: auto;
+  resize: vertical;
+  font-size: 17px;
+}
+#input {
+  background: #473b3b;
+
+  width: 100%;
+  height: 100%;
+  resize: vertical;
+  font-size: 17px;
+  color: white;
+}
+
+.language {
+  width: 150px;
+}
+.editor{
+  align-content:flex-end;
+  /* background: #473b3b; */
+
+}
+
+
+.header{
+  display: flex;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  color: rgb(222, 222, 253);
+  margin-left: 18px;
+  font-family: serif;
+  color: rgb(127, 127, 244);
+}
+.header1{
+  display: none;
+}
+
+.control-panel{
+  background: rgb(171 168 168);
+  padding: 3px;
+  font-family: sans-serif;
+  font-size: 19px;
+
+}
+.control-panel a{
+  padding-left: 12px;
+  text-decoration: none;
+}
+
+#languages{
+  width: 96px;
+  background: rgb(113, 177, 217);
+  border: 1px solid red;
+  text-align: right;
+  font-size: 18px;
+
+}
+#source {
+  align-content: flex-end;
+  height: 55vh;
+  width: 100%;
+  background: #473b3b;
+  resize: vertical;
+  font-size: 18px;
+  color: white;
+}
+
+.button-container{
+  text-align: right;
+  padding: 0px;
+  float:right;
+
+}
+
+.btn{
+  background: blue;
+  color: white;
+  padding: 1px;
+  border: 1px solid black;
+  font-size: 17px;
+  padding-left: 3px;
+  padding-right:3px;
+  cursor: pointer;
+
+}
+
+.output{
+  padding: 2px;
+  height: auto;
+  width: 60%;
+  resize: none;
+}
+#output{
+  background: #473b3b;
+
+  width: 100%;
+  height: 100%;
+  resize: none;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+.navbars {
+  display: flex;
+  overflow: hidden;
+  background-color: #ababab;
+}
+
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 4px 6px;
+  text-decoration: none;
+}
+
+.subnav {
+  float: left;
+  overflow: hidden;
+}
+
+.subnav .subnavbtn {
+  font-size: 16px;
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+
+
+.subnav-content {
+
+  display: none;
+  position: absolute;
+  left: 0;
+  background-color: midnightblue;
+  width: 100%;
+  z-index: 1;
+}
+
+.subnav-content a {
+  float: left;
+  color: white;
+  text-decoration: none;
+
+}
+.subnav:hover .subnav-content {
+  display: block;
+}
+#menu {display:none}
+#secret_checkbox {position: absolute; left:-9999px}
+#secret_checkbox:checked + #menu {display: block}
+.er{
+  display: flex;
+  flex-direction: column;
+  width: 181px;
+  
+  list-style: none;
+  margin-top: 20px;
+}
+.er li{
+  background-color: darkslateblue;
+  padding:4px 4px 6px 8px;
+}
+#tags{
+  padding: auto;
+}
+.resp{
+  display: flex;
+  flex-direction: row;
+  margin: 18px;
+
+}
+.hhaa{
+  display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 990px) {
+  body{
+    position: fixed;
+  }
+  .hhaa{
+    font-size: 25px;
+    color: white;
+  }
+  #languages{
+    display: none;
+  }
+  #tags{
+    display: flex;
+    background: rgb(255, 200, 200);
+    border: 1px solid red;
+    font-size: 18px;
+  
+  }
+  #source{
+    width: 67vh;
+  }
+  .ml-3, .mx-5 {
+    margin-left: 1rem!important;
+    width: 58vh;
+}
+
+.mt-2, .my-2 {
+    margin-top: 0.5rem!important;
+}
+.output {
+  background: #473b3b;
+  width: 100%;
+  top: 7.6%;
+  font-size: 18px;
+  resize: vertical;
+  height: 29vh;
+
+}
+.resp{
+  margin: 14px;
+  height: 40fr;
+  display: flex;
+  flex-direction: column;
+}
+.input{
+  width: 100%;
+  height: 10vh;
+}
+.editor {
+  align-content: flex-end;
+}
+.header{
+  display: none;
+}
+.header1{
+  display: flex;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  color: rgb(222, 222, 253);
+  margin-left: 6vh;
+  font-family: serif;
+  color: rgb(127, 127, 244);
+}
+}
+@media screen and (max-width: 600px) {
+  .v-res {
+    background: #5e333352;
+    width: 30%;
+    height: 100%;
+    position: fixed;
+    top: 7.6%;
+    font-size: 18px;
+    
+    resize: none;
+    margin-top: 361px;
+  
+  }
+  .editor {
+    align-content: flex-end;
+    background: #473b3b;
+}
+  #source{
+    width: 42vh;
+  }
+  .header1{
+    display: flex;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(222, 222, 253);
+    margin-left: 6vh;
+    font-family: serif;
+    color: rgb(127, 127, 244);
+  }
+
+  .output {
+    background: #473b3b;
+    width: 100%;
+    height: 29vh;
+    top: 7.6%;
+    font-size: 18px;
+    left: 187px;
+    resize: vertical;
+}
+
+.input{
+  width: 100%;
+  height: 10vh;
+}
+}
