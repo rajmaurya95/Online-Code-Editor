@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/Online-Code-Editor/static/js/runtime~main.2c5c5413.js"
   },
   {
-    "revision": "4a3c0fbcfd9ad7bdf3a1d9ac60f7dea9",
+    "revision": "41c09a0d3302606801b457dae1837883",
     "url": "/Online-Code-Editor/index.html"
   }
 ];
