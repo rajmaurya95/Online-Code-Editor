@@ -336,9 +336,9 @@ body {
 
 }
 
-@media screen and (max-width: 920px) {
+@media screen and (max-width: 720px) {
   #source {
-    width: 65vh;
+    width: 60vh;
   }
 
 }
@@ -391,4 +391,11 @@ body {
     width: 100%;
     height: 10vh;
   }
+}
+
+@media screen and (max-width: 380px) {
+  #source {
+    width: 53vh;
+  }
+
 }
