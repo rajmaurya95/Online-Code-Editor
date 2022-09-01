@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "48bfb9fd1ee144b840aa",
+    "revision": "86920f74f1634701dbba",
     "url": "/Online-Code-Editor/static/css/main.dc3d15a7.chunk.css"
   },
   {
-    "revision": "48bfb9fd1ee144b840aa",
-    "url": "/Online-Code-Editor/static/js/main.48bfb9fd.chunk.js"
+    "revision": "86920f74f1634701dbba",
+    "url": "/Online-Code-Editor/static/js/main.86920f74.chunk.js"
   },
   {
     "revision": "2b447e1be3e7dd9deafc",
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/Online-Code-Editor/static/media/logo1.0213cd02.svg"
   },
   {
-    "revision": "2facf96049a77c4193c85ac5210de48d",
-    "url": "/Online-Code-Editor/static/media/Gautam.2facf960.jpg"
+    "revision": "5fac41ba54d34ac6a3be86f436158aa9",
+    "url": "/Online-Code-Editor/static/media/Gautam.5fac41ba.jpg"
   },
   {
     "revision": "63540153ec1a311b7ff0759891557e58",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/Online-Code-Editor/static/media/Umesh.83a723ba.jpg"
   },
   {
-    "revision": "b094b00ebd47e260855f835c2dc0e9e4",
+    "revision": "79da819f5340ad01633e913c2b3a425b",
     "url": "/Online-Code-Editor/index.html"
   }
 ];
