@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "1e11ccfbcfd5d2803780",
+    "revision": "e0350c490f5cbaba25cd",
     "url": "/Online-Code-Editor/static/css/main.3b68b930.chunk.css"
   },
   {
-    "revision": "1e11ccfbcfd5d2803780",
-    "url": "/Online-Code-Editor/static/js/main.1e11ccfb.chunk.js"
+    "revision": "e0350c490f5cbaba25cd",
+    "url": "/Online-Code-Editor/static/js/main.e0350c49.chunk.js"
   },
   {
     "revision": "2b447e1be3e7dd9deafc",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/Online-Code-Editor/static/media/Umesh.83a723ba.jpg"
   },
   {
-    "revision": "a0e3aa44da73df4cbea778b92a185be2",
+    "revision": "1fed37c9e2ab2774dbad176ee6104c6d",
     "url": "/Online-Code-Editor/index.html"
   }
 ];
