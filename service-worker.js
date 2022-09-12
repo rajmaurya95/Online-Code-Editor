@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Online-Code-Editor%20%22https://rajmaurya95.github.io/%20%22/precache-manifest.9d4a63b0325d78ad4c9114b5af1d10a2.js"
+  "/Online-Code-Editor/precache-manifest.68e41792bbc0ef856a551874ebcba346.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Online-Code-Editor%20%22https://rajmaurya95.github.io/%20%22/index.html", {
+workbox.routing.registerNavigationRoute("/Online-Code-Editor/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
