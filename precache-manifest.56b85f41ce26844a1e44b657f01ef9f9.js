@@ -1,31 +1,27 @@
 self.__precacheManifest = [
   {
-    "revision": "e0350c490f5cbaba25cd",
-    "url": "/Online-Code-Editor/static/css/main.3b68b930.chunk.css"
+    "revision": "d3e6701ea212c789f4fc",
+    "url": "/Online-Code-Editor/static/css/main.d61d2dfd.chunk.css"
   },
   {
-    "revision": "e0350c490f5cbaba25cd",
-    "url": "/Online-Code-Editor/static/js/main.e0350c49.chunk.js"
+    "revision": "d3e6701ea212c789f4fc",
+    "url": "/Online-Code-Editor/static/js/main.d3e6701e.chunk.js"
   },
   {
-    "revision": "2b447e1be3e7dd9deafc",
-    "url": "/Online-Code-Editor/static/js/1.2b447e1b.chunk.js"
+    "revision": "517527aa6758397229f0",
+    "url": "/Online-Code-Editor/static/js/1.517527aa.chunk.js"
   },
   {
-    "revision": "f2ac9867c5f2fab87902",
-    "url": "/Online-Code-Editor/static/js/2.f2ac9867.chunk.js"
+    "revision": "da75a1c1a2e16b0ea4e6",
+    "url": "/Online-Code-Editor/static/js/2.da75a1c1.chunk.js"
   },
   {
-    "revision": "cd7fb8c573d20e540133",
-    "url": "/Online-Code-Editor/static/js/runtime~main.cd7fb8c5.js"
+    "revision": "ef70cc2e18753806dce2",
+    "url": "/Online-Code-Editor/static/js/runtime~main.ef70cc2e.js"
   },
   {
     "revision": "470c542599b8d9dc56002fb6210c2086",
     "url": "/Online-Code-Editor/static/media/bg5.470c5425.jpg"
-  },
-  {
-    "revision": "0213cd0227f49410c2f50a697c80ef3e",
-    "url": "/Online-Code-Editor/static/media/logo1.0213cd02.svg"
   },
   {
     "revision": "5fac41ba54d34ac6a3be86f436158aa9",
@@ -44,7 +40,11 @@ self.__precacheManifest = [
     "url": "/Online-Code-Editor/static/media/Umesh.83a723ba.jpg"
   },
   {
-    "revision": "1fed37c9e2ab2774dbad176ee6104c6d",
+    "revision": "0213cd0227f49410c2f50a697c80ef3e",
+    "url": "/Online-Code-Editor/static/media/logo1.0213cd02.svg"
+  },
+  {
+    "revision": "f019263649f81dc2dd2cea009834a688",
     "url": "/Online-Code-Editor/index.html"
   }
 ];
