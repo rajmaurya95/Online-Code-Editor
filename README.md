@@ -16,7 +16,7 @@ https://rajmaurya95.github.io/Online-Code-Editor/
 
 ## Demo
 
-https://github.com/rajmaurya95/Online-Code-Editor
+https://rajmaurya95.github.io/Online-Code-Editor/
 
 
 ## Features
