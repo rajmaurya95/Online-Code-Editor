@@ -1,7 +1,7 @@
 {
   "main.css": "/Online-Code-Editor/static/css/main.d61d2dfd.chunk.css",
-  "main.js": "/Online-Code-Editor/static/js/main.d3e6701e.chunk.js",
-  "main.js.map": "/Online-Code-Editor/static/js/main.d3e6701e.chunk.js.map",
+  "main.js": "/Online-Code-Editor/static/js/main.2aff1b6f.chunk.js",
+  "main.js.map": "/Online-Code-Editor/static/js/main.2aff1b6f.chunk.js.map",
   "static/js/1.517527aa.chunk.js": "/Online-Code-Editor/static/js/1.517527aa.chunk.js",
   "static/js/1.517527aa.chunk.js.map": "/Online-Code-Editor/static/js/1.517527aa.chunk.js.map",
   "static/js/2.da75a1c1.chunk.js": "/Online-Code-Editor/static/js/2.da75a1c1.chunk.js",
@@ -16,6 +16,6 @@
   "static/media/logo1.svg": "/Online-Code-Editor/static/media/logo1.0213cd02.svg",
   "static/css/main.d61d2dfd.chunk.css.map": "/Online-Code-Editor/static/css/main.d61d2dfd.chunk.css.map",
   "index.html": "/Online-Code-Editor/index.html",
-  "precache-manifest.56b85f41ce26844a1e44b657f01ef9f9.js": "/Online-Code-Editor/precache-manifest.56b85f41ce26844a1e44b657f01ef9f9.js",
+  "precache-manifest.ae51789960cc62f91ab0f078f04ee272.js": "/Online-Code-Editor/precache-manifest.ae51789960cc62f91ab0f078f04ee272.js",
   "service-worker.js": "/Online-Code-Editor/service-worker.js"
 }
